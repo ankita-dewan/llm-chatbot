@@ -1,2 +1,2 @@
 # llm-chatbot
-Chatbot with ollama3.2
+Chatbot with openAI & ollama3.2
